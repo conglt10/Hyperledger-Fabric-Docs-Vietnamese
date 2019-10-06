@@ -1,7 +1,7 @@
 # Tài liệu Hyperledger Fabric Tiếng Việt
 
 [![version](https://img.shields.io/badge/repo%20status-active-brightgreen)](https://github.com/conglt10/Hyperledger-Fabric-Docs-Vietnamese)
-![version](https://img.shields.io/badge/last%20change-04%2F10%2F2019-yellowgreen)
+![version](https://img.shields.io/badge/last%20change-12%2F10%2F2019-yellowgreen)
 [![version](https://img.shields.io/badge/open%20issues-1-red)](https://github.com/conglt10/Hyperledger-Fabric-Docs-Vietnamese/issues)
 
 <div align="center">
